@@ -28,6 +28,7 @@ Upon successfully completing this course students will have conceptual and pract
 * Apply control structures such as decisions and loops to alter programming flow.
 * Learn how to manipulate the DOM with  JavaScript.
 * Add Events to a website
+* Work with AJAX and JSON
 * Use the popular jQuery library and jQuery Plugins to simplify web development
 * Gain basic understanding of JavaScript APIs and Frameworks
 * Apply error handling and debugging
@@ -76,3 +77,69 @@ You will receive no credit and may be subject to disciplinary action if your gra
 
 ## SCC Syllabus Supplemental 
 Link can be found [here](https://docs.google.com/document/d/1yudWf-jUKFL10B16m9VKeFS6isA0B2uPjfYnrT5FjOU/edit)
+
+## Tentative Schedule 
+
+### Week 1
+JavaScript syntax, variables
+
+Arithmetic
+
+### Week 2
+
+Conditional statements
+
+Loops
+
+### Week 3
+Functions
+
+Scope
+
+### Week 4
+Arrays
+
+Objects
+
+Maps
+
+### Week 5
+String, Data, and Math objects
+
+Exception handling
+
+### Week 6
+JS in the browser
+
+Using JS with HTML
+
+DOM and DOM modificaiton
+
+### Week 7
+Event driven programming
+
+Modifyng CSS with JavaScript
+
+### Week 8
+Form validation
+
+AJAX, JSON
+
+Third party APIs
+
+### Week 9
+Additional JS topics: 
+
+Classes, inner and outer functions, closures, strict mode, web storage
+
+### Week 10
+jQuery  
+
+Plugins
+
+Overview of full stack development with Node.js
+
+### Week 11
+TBD
+
+
