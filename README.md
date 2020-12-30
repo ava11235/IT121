@@ -46,6 +46,8 @@ ZyBooks Digital textbook
 
 A code editor such as https://code.visualstudio.com/
 
+A web server to host your JavaScript projects.  A free option is https://pages.github.com/
+
 ## Evaluation
 Will be based on 
 Weekly Coding Assignments and Participation Activities
