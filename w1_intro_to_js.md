@@ -22,7 +22,7 @@ JS is written in plain text, as are HTML and CSS.
 You can add JS to your page in two ways: by adding a ``` <script> ``` tag in the head or before the closing body tag of the HTML page. 
 When the browser encounters a ```<script> ``` element it stops to load the script and performs any actions indicated.
 
-The code inside the ```<script> ``` tag can be embdded or in its own .js file, which is linked with with the ```<script src="filename"> ``` attribute.
+The code inside the ```<script> ``` tag can be embedded or in its own .js file, which is linked with with the ```<script src="filename"> ``` attribute.
 
 
 
