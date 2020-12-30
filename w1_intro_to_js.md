@@ -1,3 +1,4 @@
+
 ## Reading
 
 Review the syllabus and post any questions on the Q&A forum
@@ -12,6 +13,17 @@ or attributes on the web page), by writing steps for the browser to follow, and 
 
 What is a script?  A script is a series of instructions that the  computer can follow to complete a task.
 To write a script you define a task/requirement, split it in smaller sub-tasks, implement the sub tasks using a programming language such as JS.
+
+![image](https://github.com/ava11235/IT121/blob/main/Capture.JPG)
+
+How to write a JavaScript:
+
+JS is written in plain text, as are HTML and CSS. 
+You can add JS to your page in two ways: by adding a ``` <script> ``` tag in the head or before the closing body tag of the HTML page. 
+When the browser encounters a ```<script> ``` element it stops to load the script and performs any actions indicated.
+
+The code inside the ```<script> ``` tag can be embdded or in its own .js file, which is linked with with the ```<script src="filename"> ``` attribute.
+
 
 
 
@@ -42,6 +54,9 @@ Upon successful completion of the work, students will be familiar with and able 
 
 
 
-## Example
-Example code [here]()
+## Example 
+
+Interactive Hello, world! using the built in Date object to get current time.
+
+Example code [here](https://repl.it/@ava11235/ZigzagJollySales)
 
