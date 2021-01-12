@@ -69,13 +69,13 @@ The difference between the while and do...while loops is that with the do...whil
 ## Reference
 Another cloud based code editor: https://codepen.io/
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://hackernoon.com/understanding-js-coercion-ff5684475bfc
 
 https://developer.mozilla.org/en-US/docs/Glossary/Truthy
 
 https://developer.mozilla.org/en-US/docs/Glossary/Falsy
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## Practice
 
