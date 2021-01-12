@@ -44,28 +44,30 @@ for statement
 for ([initialExpression]; [conditionExpression]; [incrementExpression]) {
   statement;
   statement ;
-  }```
+  }
 
 while statement
 
-```while (condition) {
+while (condition) {
   statement;
   statement ;
- } ```
+ } 
 
 do whlie statement
 
-```do {
+do {
     statement;
     statement;
    } while (condition);
-``` 
+ 
 The difference between the while and do...while loops is that with the do...while loop the statements are always executed once before the condition is checked.
 
 ## Example
 [Loop](https://codepen.io/mickeysthecat/pen/KKgByLM)
 
 ## Reference
+Another cloud based code editor: https://codepen.io/
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://hackernoon.com/understanding-js-coercion-ff5684475bfc
 
@@ -73,7 +75,6 @@ https://developer.mozilla.org/en-US/docs/Glossary/Truthy
 
 https://developer.mozilla.org/en-US/docs/Glossary/Falsy
 
-Another cloud editor recommendation: https://codepen.io/
 
 ## Practice
 
