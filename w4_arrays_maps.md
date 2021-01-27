@@ -5,7 +5,7 @@
 Ch 4.2 Arrays 
 
 
- An arry is a list of sequential items that can be access with an index.
+ An array is a list of sequential items that can be accessed with an index.
  To create a literal array, use this syntax:
  
  ```
@@ -107,6 +107,6 @@ Upon successful completion of the work, students will be familiar with and able 
 
 * Use the for...in loop to iterate over maps.
 
-* Work with the Object.keys(), in nad delete methods.
+* Work with the Object.keys(), in, and delete methods.
 
 * Work with methods of the Map object to set, get or remove keys or values.
