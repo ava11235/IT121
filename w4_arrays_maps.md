@@ -1,21 +1,84 @@
 ## Arrays and Objects
 ## Reading
 
+## Arrays
 Ch 4.2 Arrays 
 
-Ch 4.3 Maps
 
-## Arrays
+ An arry is a list of sequential items that can be access with an index.
+ To create a literal array, use this syntax:
+ 
+ ```
+ let shoppingList = ['bread', 'rice', 'potatoes', 'beans', 'kale'];
+ 
+ //print an the entire array content 
+  console.log(shoppingList);
+ 
+ //use the index to access individual elements of the array
+ console.log(shoppingList[2]; //potatoes 
+ 
+ ```
+ 
+ 
+ The array object supports various methods for working with arrays. 
+ 
+ Click on each link for interactive examples.
+ 
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
+ 
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+ 
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
+ 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse
 
-### Array Example
-[Function](https://codepen.io/mickeysthecat/pen/yLawbbY)
+There are several methods available for iterating over an array's elements such as:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+
+or the standard ```for loop ``` using the length of the array
+```
+for (i = 0; i < shoppingList.length; i++) {
+   console.log(i + 1 + " " + shoppingList[i]);
+}
+```
 
 ## Maps
+## Ch 4.3 Maps
+
+A map is a key-value pair ordered object, such as: state and its state bird.
+
+The object map supports methods for getting the number of elements, removing elements, checking if a key is in the map, and setting a map's key and value.
+
+``` let stateBirds = {
+   WA: "American goldfinch",
+   OR: "Western meadowlark",
+   ID: "Mountain bluebird"
+};
+
+//single key
+console.log("WA's state bird is " +  stateBirds["WA"]);
+
+//iterate over entire map
+
+for (let state in stateBirds) { 
+   console.log(state + "\'s state bird is " + stateBirds[state]);
+}
+
+```
+
+Click on each link for interactive examples. 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/get
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/delete
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/forEach
 
 
 
-###  Map Example
-[]()
 
 ## Reference
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
