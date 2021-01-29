@@ -52,7 +52,8 @@ A map is a key-value pair ordered object, such as: state and its state bird.
 
 The object map supports methods for getting the number of elements, removing elements, checking if a key is in the map, and setting a map's key and value.
 
-``` let stateBirds = {
+```
+let stateBirds = {
    WA: "American goldfinch",
    OR: "Western meadowlark",
    ID: "Mountain bluebird"
