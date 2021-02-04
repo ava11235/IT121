@@ -1,4 +1,4 @@
-## String, Data and Math Objects 
+## String, Date and Math Objects 
 ## Reading
 
 zyBooks Ch 5
