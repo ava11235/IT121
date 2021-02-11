@@ -5,7 +5,7 @@ zyBooks Ch 6
 
 DOM specifies how a browser creates a model of an HTML page and how JS can accesses or modify an HTML page. 
 
-The DOM tree is a represenation of a web page.
+The DOM tree is a representation of a web page.
 
 To access and update the HTML on a web page you need to select the element(s) to work with. 
 
@@ -28,7 +28,7 @@ Element content
 
 Attributes
 
-Properties for accessing the content include: 
+Properties for accessing the content include:
 
 ```nodeValue 
 textContent 
