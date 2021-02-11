@@ -1,4 +1,4 @@
-## Document object Model
+## Document Object Model
 ## Reading
 
 zyBooks Ch 6
