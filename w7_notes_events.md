@@ -41,6 +41,10 @@ CSS classes can be added or removed with the use of the classList property and m
 
 ## Examples
 
+Keypress event exampe:
+
+https://codepen.io/mickeysthecat/pen/KKNWoNo?editors=1111
+
 
 ## Reference
 
