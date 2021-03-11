@@ -18,6 +18,10 @@ Plugins are an easy way to add functionality to a web page. Examples include gal
 
 One easy way to add widgets (visual plugins) to your website is with the use of jQuery UI, which is another jQuery library. Note that jQuery UI requires jQuery.
 
+### Example
+Use jQuery UI widgets and Form Validation plugin.
+
+https://codepen.io/mickeysthecat/pen/QWGzYgQ
 
 ## Reference
 https://jqueryui.com/
