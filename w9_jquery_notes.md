@@ -34,6 +34,8 @@ https://jqueryvalidation.org/
 
 https://github.com/mar10/jquery-ui-contextmenu
 
+https://www.tutorialspoint.com/How-to-use-multiple-versions-of-jQuery-on-the-same-page
+
 ## Practice
  
 zyBooks Ch 9.6 - 9.8 (graded participation activity)
