@@ -26,6 +26,8 @@ https://codepen.io/mickeysthecat/pen/QWGzYgQ
 ## Reference
 https://jqueryui.com/
 
+http://jquery.malsup.com/cycle2/
+
 http://chocolat.insipi.de/
 
 https://jqueryvalidation.org/
