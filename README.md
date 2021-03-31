@@ -1,12 +1,12 @@
-# IT121
-# JavaScript 1
+# IT 216
+# Android App Development 1
 
 ** This content is subject to change.
 
 ## Course Information: 
 * Location: Online
-* Time: Virtual meetings on Thursdays 5pm - 6:30pm
-* Dates: 1/4/2021 - 3/24/2021
+* Time: Virtual meetings on Mondays 5pm - 6:30pm 
+* Dates: Apr 5, 2021-Jun 18, 2021
 * Instructor: Ava Meredith 
 * Website: https://www.avameredith.com/
 * Email: Stanislava.Meredith@seattlecolleges.edu
@@ -14,44 +14,38 @@
 * Credits: 5
 
 ## Course Description
-Examines computer programming theory and basics with the use of JavaScript language. Uses a hands-on approach to building interactive websites with JavaScript and demonstrates how to simplify the web development process with the use of  jQuery.
-Prereq: IT 161 with a grade of 2.0 or higher or permission.
+Covers advanced Object Programming concepts and their application in a mobile environment. Includes OOP inheritance, interfaces, and good design principles. Covers installation and configuration of Android Studio and SDK. Develop a use interface design, write Java code (or Kotlin) code to work with an activity, work with layouts, widgets and handle events. Work with themes and styles. Create a simple mobile application. Prereq: IT 211 with a 2.0 or higher.
 
 
 ## Course Outcomes
 
 Upon successfully completing this course students will have conceptual and practical knowledge of the following areas:
 
-* Learn what a JavaScript is, how to create one, and how to write scripts for web pages.
-* Learn programming fundamentals including variables,operators, functions, arrays,  how they are implemented and used in JavaScript programs.
-* Learn Object Oriented programming concepts and apply OOP techniques in your programs.
-* Apply control structures such as decisions and loops to alter programming flow.
-* Learn how to manipulate the DOM with  JavaScript.
-* Add Events to a website
-* Work with AJAX and JSON
-* Use the popular jQuery library and jQuery Plugins to simplify web development
-* Gain basic understanding of JavaScript APIs and Frameworks
-* Apply error handling and debugging
-* Learn how to enhance and validate forms
+* Successfully install Android Studio 	
+* Develop Android simple apps with Android Studio 
+*	Develop the User Interface and write the Java code for an app
+* Test and debug Android apps
+* Work with layouts and widgets
+* Handle events
+* Incorporate themes and styles
 
 
 ## Required materials
 ZyBooks Digital textbook 
-
-1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com/)
-2. Enter zyBook code: SEATTLECENTRALIT121MeredithWinter2021
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: SEATTLECENTRALIT216MeredithSpring2021
 3. Subscribe
 
 ## Software we will use in class 				
 
-A code editor such as https://code.visualstudio.com/
-
-A web server to host your JavaScript projects.  A free option is https://pages.github.com/
+Android Studio (Installation and use will be covered in class)
 
 ## Evaluation
 Will be based on 
-Weekly Coding Assignments and Participation Activities
-Final coding project  100 points
+Weekly Coding Assignments 100 points
+Weekly Participation Activities 20 points
+Might also include Graded Discussions 10 points
+
 
 ## Homework Assignments and Grading
 
@@ -61,10 +55,8 @@ Participation activities will be worth 20 points.
 
 If you do not complete the assignment by the due date, you will receive a grade of 0. Partial points will be given for partially completed assignments.
 
-You may request a regrade at -20 points by emailing me and clearly stating for which assignment you are requesting a regrade (e.g. Email subject: Regrade Ch 1 Code Lab: 1.14).  Late points for participation activities  -4 points.
-
-A regrade request does not guarantee a regrade.
-
+You may request a regrade by emailing me and clearly stating for which assignment you are requesting a regrade (e.g. Email subject: Regrade Ch 1 Code Lab: 1.14).  
+**A regrade request does not guarantee a regrade.**
 
 ## Email
 Students can use email to communicate with me regarding private matters such as grades. However, questions that are content-related can benefit all students; therefore, please ask those either in the face-to-face environment or in our virtual course discussion forums. I will be checking forums daily and receive email notifications when students post. This helps speed up the response process along with the fact that your peers can also help answer your questions.
@@ -83,65 +75,38 @@ Link can be found [here](https://docs.google.com/document/d/1yudWf-jUKFL10B16m9V
 ## Tentative Schedule 
 
 ### Week 1
-JavaScript syntax, variables
-
-Arithmetic
+Android fundamentals
 
 ### Week 2
-
-Conditional statements
-
-Loops
+Layouts
 
 ### Week 3
-Functions
-
-Scope
+Widgets
 
 ### Week 4
-Arrays
-
-Objects
-
-Maps
+Activities and Intents
 
 ### Week 5
-String, Data, and Math objects
-
-Exception handling
+Menus, Dialogs
 
 ### Week 6
-JS in the browser
-
-Using JS with HTML
-
-DOM and DOM modificaiton
+Code Lab
 
 ### Week 7
-Event driven programming
+Fragments
 
-Modifyng CSS with JavaScript
 
 ### Week 8
-Form validation
+Working with data
 
-AJAX, JSON
-
-Third party APIs
 
 ### Week 9
-Additional JS topics: 
+Running Background tasks
 
-Classes, inner and outer functions, closures, strict mode, web storage
 
 ### Week 10
-jQuery  
-
-Plugins
-
-Overview of full stack development with Node.js
+Senosors, Camera, Location
 
 ### Week 11
-TBD
-
+Testing
 
